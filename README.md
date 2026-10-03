@@ -27,3 +27,8 @@
 ```bash
 pip install opencv-python
 ```
+## 授權
+
+本專案採用 MIT License。
+
+詳細內容請參閱 [LICENSE](https://github.com/Wayne27304/Video-to-ASCII-Converter/blob/main/LICENSE)。
